@@ -54,7 +54,7 @@
           <configuration> 
             <archive> 
               <manifest> 
-                <mainClass>java.workshop4.App</mainClass>
+                <mainClass>sdfWorkshop4.App</mainClass>
               </manifest>
             </archive>
           </configuration>
